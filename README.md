@@ -27,6 +27,6 @@ My primary focus lies at the intersection of graph neural networks and reinforce
 Feel free to reach out if you're interested in collaborative research, have questions about my work, or just want to chat about the exciting world of dynamic networks!
 
 - [LinkedIn](https://www.linkedin.com/in/mcan-ozkan/)
-- [Twitter](https://twitter.com/MustafaCOzkan)
+- [Twitter](https://twitter.com/ozkanmcan)
 
 
